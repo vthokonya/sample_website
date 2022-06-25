@@ -6,3 +6,44 @@
 .nav-spacing{
     margin: 0 0 0 10px;
 }
+.image-link{
+    text-decoration: none;
+}
+table{
+    border: 1px solid black;
+}
+th{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+    padding: 10px;
+}
+.header-container{
+    text-align: center;
+    margin: 0 0 80px;
+}
+.image-centre{
+    display:block; 
+    margin: 0 auto;
+}
+.div-box{
+    width: 500px; 
+    margin: 20px auto; 
+    padding: 30px;
+    background-color: #fafafa;
+}
+.image-float{
+    float: left; 
+    margin: 0 20px 0 0;
+}
+.blockquote-box{
+    font-style: italic; 
+    font-size: 20px;
+}
+.span-text{
+    font-style: normal; 
+    font-size: 24px; 
+    font-weight: bold; 
+    color: #cccccc;
+}
